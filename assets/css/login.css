@@ -1,0 +1,38 @@
+
+
+.auth.auth-img-bg .auth-form-transparent {
+    width: 75%;
+    margin: auto;
+}
+
+.carousel-item {
+    height: 100vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.carousel-item:after {
+    content:"";
+    display:block;
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    background:rgba(0,0,0,0.7);
+}
+
+.carousel-caption h2 {
+    font-size: 2.5rem;
+}
+
+.carousel-caption {
+    transform: translateY(-50%);
+    bottom: 0;
+    top: 60%;
+    text-align: justify;
+}
