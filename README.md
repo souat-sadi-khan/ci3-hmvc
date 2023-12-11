@@ -1,5 +1,17 @@
 # Latest-Codeigniter-3.1.9-HMVC-Modules
 
+<h4>Here you can get the Codeigniter 3 HMVC</h4>
+
+<p>If you want to run this project, then follow the below list</p>
+<ol>
+	<li>First pull from the repository</li>
+	<li>Place this project onto your xampp->htdocs folder.</li>
+	<li>Create a new database. </li>
+	<li>Uplaod the SQL file which is located in SQL folder</li>
+	<li>After uploading the SQL file, change the database configuration in the application/config/database.php file</li>
+	<li>If you hit the URL of your project file in localhost, you will see the login page for the system.</li>
+</ol>
+
 <h4>What this repository contains?</h4>
 <ol>
 	<li> Codeigniter V3.1.9 (<a href="https://codeigniter.com/download" target="_blank">https://codeigniter.com/download</a>)</li>
